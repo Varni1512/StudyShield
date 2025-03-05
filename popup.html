@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RECLaiM</title>
+    <script src="popup.js" defer></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <img src="icon.png" alt="Logo" class="logo">
+    <div class="popup-container">
+        <h3>Enter Prompt</h3>
+        <textarea id="studyTopic" placeholder="Enter your study topic"></textarea>
+
+        <h3>Select Time</h3>
+        <input type="number" id="studyTime" placeholder="Enter time (mins)">
+
+        <button id="startSession">Start Study</button>
+        <button id="stopSession" class="stop-btn">Stop Study</button>
+
+        <p id="statusMessage"></p>
+    </div>
+</body>
+</html>
