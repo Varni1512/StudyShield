@@ -20,7 +20,7 @@
 ---
 
 ## 📷 Screenshots  
-🔹 ![image](https://github.com/user-attachments/assets/e7c0e960-9813-4182-ae67-84b91d0793c0)
+![image](https://github.com/user-attachments/assets/e7c0e960-9813-4182-ae67-84b91d0793c0)
 
 
 ---
