@@ -44,6 +44,6 @@
 ---
 
 ## 💬 Feedback & Support 
-💡 Have suggestions? Open an issue or contact me at varnikumarp@gmail.com.
-🔗 GitHub Repo: https://github.com/Varni1512/StudyShield
+-💡 Have suggestions? Open an issue or contact me at varnikumarp@gmail.com.
+-🔗 GitHub Repo: https://github.com/Varni1512/StudyShield
 
