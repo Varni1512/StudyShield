@@ -1,4 +1,4 @@
-# StudyShield - Focus Study 📚🚀  
+# StudyShield – Focus Booster 📚🚀  
 *A Chrome extension that enhances study effectiveness by structuring study sessions, blocking distractions, and improving focus time.*  
 
 ---
